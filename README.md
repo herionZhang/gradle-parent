@@ -1,4 +1,4 @@
-# gradle-parent
+# IDEA 2020.2 +Gradle 6.6.1 + Spring Boot 2.3.4 创建多模块项目
 gradle 多工程创建
 
 ##  环境介绍
