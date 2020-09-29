@@ -1,0 +1,5 @@
+rootProject.name = 'gradle-parent'
+include 'gradle-demo'
+include 'gradle-demo2'
+include 'gradle-common'
+

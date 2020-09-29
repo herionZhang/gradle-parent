@@ -1,0 +1,8 @@
+bootJar{
+    enabled = false
+    classifier = 'application'
+}
+
+jar{
+    enabled = true
+}
